@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d6ebff;
+      }
+
+      .cls-2 {
+        fill: #002f5c;
+        stroke: #002f5c;
+        stroke-miterlimit: 10;
+        stroke-width: .75px;
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-4" d="M12,0h0c6.63,0,12,5.37,12,12h0c0,6.63-5.37,12-12,12h0C5.37,24,0,18.63,0,12H0C0,5.37,5.37,0,12,0Z"/>
+    </clipPath>
+  </defs>
+  <g class="cls-3">
+    <path class="cls-1" d="M24,0H0V24H24V0Z"/>
+  </g>
+  <path class="cls-2" d="M9.65,21.08l1.2-7.49h-3.64c-.18,0-.32-.14-.32-.32,0-.08,.03-.14,.07-.2L13.78,2.7c.1-.15,.29-.19,.44-.09,.11,.07,.16,.2,.14,.31l-1.2,7.49h3.64c.18,0,.32,.14,.32,.32,0,.07-.03,.14-.07,.2l-6.82,10.37c-.1,.15-.29,.19-.44,.09-.11-.07-.16-.2-.14-.31h0Zm1.89-7.76l-1.03,6.4,5.7-8.67h-3.48c-.17-.03-.29-.19-.26-.37l1.03-6.4L7.79,12.95h3.48c.17,.03,.29,.2,.26,.37h0Z"/>
+</svg>

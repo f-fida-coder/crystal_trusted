@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscnsoft_website=self.webpackChunkscnsoft_website||[]).push([[7798],{19851:(e,s,t)=>{(0,t(49962).Z)(".testimonials-whole-screen",(()=>Promise.all([t.e(3913),t.e(8985),t.e(2163),t.e(9405),t.e(1105)]).then(t.bind(t,51105))))}},e=>{e.O(0,[1475,2618,1989,9962],(()=>{return s=19851,e(e.s=s);var s}));e.O()}]);

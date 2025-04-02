@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscnsoft_website=self.webpackChunkscnsoft_website||[]).push([[632],{25471:()=>{}},s=>{var e;e=25471,s(s.s=e)}]);

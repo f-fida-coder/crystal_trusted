@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscnsoft_website=self.webpackChunkscnsoft_website||[]).push([[5765],{36925:(e,s,n)=>{(0,n(49962).Z)(".recognition-wrapper",(()=>Promise.all([n.e(3913),n.e(3279),n.e(6914),n.e(7908),n.e(1385),n.e(7447),n.e(7557)]).then(n.bind(n,67557))),!0)}},e=>{e.O(0,[1475,2618,1989,9962],(()=>{return s=36925,e(e.s=s);var s}));e.O()}]);

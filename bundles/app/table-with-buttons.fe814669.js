@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscnsoft_website=self.webpackChunkscnsoft_website||[]).push([[2652],{35177:(e,s,t)=>{(0,t(49962).Z)(".table-with-buttons-js-wrapper",(()=>Promise.all([t.e(3913),t.e(3279),t.e(6914),t.e(4222)]).then(t.bind(t,34222))))}},e=>{e.O(0,[1475,2618,1989,9962],(()=>{return s=35177,e(e.s=s);var s}));e.O()}]);

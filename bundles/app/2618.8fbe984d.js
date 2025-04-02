@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscnsoft_website=self.webpackChunkscnsoft_website||[]).push([[2618],{22618:(e,s,n)=>{function t(e,s,n){const t=new IntersectionObserver((e=>{const s=e[0].isIntersecting;n(s)}),{rootMargin:`${s}px 0px`});return t.observe(e),()=>t.unobserve(e)}n.d(s,{Z:()=>t})}}]);

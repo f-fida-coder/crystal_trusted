@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscnsoft_website=self.webpackChunkscnsoft_website||[]).push([[1677],{36786:(e,s,t)=>{(0,t(49962).Z)(".a-collapsible",(()=>Promise.all([t.e(3913),t.e(2122)]).then(t.bind(t,32122))))}},e=>{e.O(0,[1475,2618,1989,9962],(()=>{return s=36786,e(e.s=s);var s}));e.O()}]);

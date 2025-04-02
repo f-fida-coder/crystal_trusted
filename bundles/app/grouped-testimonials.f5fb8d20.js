@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscnsoft_website=self.webpackChunkscnsoft_website||[]).push([[9571],{2616:(e,s,t)=>{(0,t(49962).Z)(".grouped-testimonials",(()=>Promise.all([t.e(3913),t.e(2163),t.e(2780)]).then(t.bind(t,22780))))}},e=>{e.O(0,[1475,2618,1989,9962],(()=>{return s=2616,e(e.s=s);var s}));e.O()}]);

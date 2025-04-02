@@ -1,0 +1,1 @@
+(self.webpackChunkscnsoft_website=self.webpackChunkscnsoft_website||[]).push([[3493],{23493:(n,e,i)=>{var t=i(23279),a=i(13218);n.exports=function(n,e,i){var r=!0,s=!0;if("function"!=typeof n)throw new TypeError("Expected a function");return a(i)&&(r="leading"in i?!!i.leading:r,s="trailing"in i?!!i.trailing:s),t(n,e,{leading:r,maxWait:e,trailing:s})}}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscnsoft_website=self.webpackChunkscnsoft_website||[]).push([[143],{67496:(e,s,r)=>{(0,r(49962).Z)(".a-cards-for-grouping_wrapper",(()=>Promise.all([r.e(3913),r.e(7780)]).then(r.bind(r,47780))))}},e=>{e.O(0,[1475,2618,1989,9962],(()=>{return s=67496,e(e.s=s);var s}));e.O()}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscnsoft_website=self.webpackChunkscnsoft_website||[]).push([[9405],{39405:(e,n,o)=>{o.d(n,{Z:()=>s});var t=o(4002),a=o.n(t);function s(e){if(navigator.clipboard)navigator.clipboard.writeText(e);else{const n=a()("<input>");a()("body").append(n),n.val(e).select(),addLinkOnCopy=!1,document.execCommand("copy"),addLinkOnCopy=!0,n.remove()}}}}]);
